@@ -1,0 +1,5 @@
+#!/bin/bash
+set -v
+java MaxList 12.0 12 34 55 
+java MaxList 33 45 12 4.9
+java MaxList 2 3 4 2.0

@@ -1,0 +1,4 @@
+#!/bin/bash
+set -v
+java MinimumTankSize 12.5
+
